@@ -2,7 +2,7 @@
   <data>
     <!-- explicit list view definition -->
 <
-    <record model="ir.ui.view" id="cap.list">
+    <record model="ir.ui.view" id="CAP1.list">
       <field name="name">cap list</field>
       <field name="model">cap.cap</field>
       <field name="arch" type="xml">
